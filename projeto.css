@@ -1,0 +1,31 @@
+.titulo{
+    color: white;
+    font-family: helvetica;
+    text-align: center;
+    background-color: rgb(39, 35, 35);
+}
+
+.titulos-animais{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(39, 35, 35) ;
+}
+
+.p1{
+    text-align: left;
+    padding: 15px;
+}
+
+.arara{
+    width: 400px;
+}
+
+.tigre{
+    padding: auto;
+    /* perfeito */
+}
+
+.macaco{
+    width: 600px;
+}
